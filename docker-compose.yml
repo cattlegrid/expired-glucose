@@ -1,0 +1,6 @@
+version: '2'
+services:    
+    expired-glucose:
+      image: builder555/expired-glucose
+      privileged: true
+
