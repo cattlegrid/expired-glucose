@@ -4,4 +4,4 @@ services:
       image: builder555/expired-glucose
       privileged: true
       environment:
-      - OUT_PIN=13
+        - OUT_PIN=13
